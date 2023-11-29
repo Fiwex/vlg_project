@@ -1,7 +1,7 @@
 # Very Large Graph
 
 # Setup
-Pour lancer le projet nous avons suivi les étapes suivantes :
+Pour lancer le projet, nous avons suivi les étapes suivantes :
 
 ## 1. Configure Spark Master Node
 - **Setup Master Process:**
@@ -23,3 +23,9 @@ Pour lancer le projet nous avons suivi les étapes suivantes :
      spark-submit --master spark://MASTER:7077 path_to_your_script.py
      ```
 
+## 4. Versions
+
+- **Versions:**
+   - Spark: 3.5.0
+   - Python: 3.10
+   - Java: 8
