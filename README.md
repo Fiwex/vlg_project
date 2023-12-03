@@ -34,14 +34,13 @@ Pour lancer le projet, nous avons suivi les étapes suivantes :
 ## 5. Run & Results
 
 ### Cluster before run, during run and after multiple runs
-![alt text](images\cluster_start.png)\
-![alt text](images\cluster_running.png)\
-![alt text](images\cluster_done.png)
-
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/cluster_start.png)\
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/cluster_running.png)\
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/cluster_done.png)
 ### CPU usage before and during run on one of the workers
-![alt text](images\before_run.png)\
-![alt text](images\multiple_cores.png)\
-![alt text](images\high_cpu.png)
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/before_run.png)\
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/multiple_cores.png)\
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/high_cpu.png)
 
 ### Result of a run
-![alt text](images\result.png)
+![alt text](https://github.com/Fiwex/vlg_project/blob/main/images/result.png)
