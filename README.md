@@ -1,5 +1,12 @@
 # Very Large Graph
 
+## Authors
+Adrien Giget
+Denis Stojiljkovic
+Ethan Machavoine
+Jonathan Poelger
+Tanguy Malandain
+
 # Setup
 Pour lancer le projet, nous avons suivi les étapes suivantes :
 
